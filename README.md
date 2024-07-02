@@ -2,7 +2,12 @@
 This is a portfolio project offered through the Codecademy Business Intelligence Analyst Career Path. The project aims to analyze a dataset of U.S. medical insurance costs.
 
 ## Tools and Techniques
-This project was completed using Python and Jupyter Notebook.
+This project was completed using Python and Jupyter Notebook as well as the following libraries:
+- Pandas
+- Matplotlib
+- NumPy
+- Scikit-learn
+- Jupyter
 
 ## Sections:
 ### Importing and exploring the insurance dataset
